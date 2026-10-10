@@ -1,0 +1,23 @@
+#main_head {
+    color: #333333;
+    font-size: 5em;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
+input[type="text"] {
+    padding: 10px;
+    font-size: 1em;
+    width: 200px;
+    margin-right: 10px;
+}
+
+button.delete {
+    background-color: #f44336;
+    color: white;
+}
